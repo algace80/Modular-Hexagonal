@@ -32,9 +32,14 @@ La arquitectura hexagonal, también conocida como **arquitectura de puertos y ad
 
 4. **Escalabilidad**: Permite la expansión del proyecto mediante la incorporación de nuevos módulos o capas sin complicar la estructura existente.
 
-## Colección de Insomnia
+## Postman Collection
+He incluido una colección de Postman para que puedas probar los servicios de la API. Puedes importar el archivo **OfferAPI_Collection.json** para acceder a las solicitudes predefinidas.
 
-Se ha incluido una colección de Insomnia, que permite probar los servicios de la aplicación de manera sencilla. Puedes importar esta colección en Insomnia para interactuar con las diferentes APIs disponibles.
+### Instrucciones para Importar en Postman
+1. Abre Postman.
+2. Haz clic en el botón **Import** en la parte superior izquierda.
+3. Selecciona la pestaña **File** y elige el archivo **OfferAPI_Collection.json**.
+4. Haz clic en **Import**.
 
 ## Cómo Ejecutar el Proyecto
 
