@@ -60,8 +60,6 @@ Para ejecutar la aplicación, sigue estos pasos:
    mvn spring-boot:run
    ```
 
-4. Accede a la aplicación en [http://localhost:8080](http://localhost:8080).
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o enviar un pull request.
